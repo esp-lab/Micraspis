@@ -58,7 +58,7 @@ Notes: States will be changed only if an event occurs. So every connection must 
 * Extract zip file
 * Copy all files in plugs folder
 * Pase to the eclipse installation folder: eclipse/plugins/
-* Restart eclipse
+* Restart Eclipse IDE
 
 ## Version
 
